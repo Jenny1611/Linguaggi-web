@@ -1,0 +1,10 @@
+.about div {
+    height: 100vh;
+    background-image: url(about.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
